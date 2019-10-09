@@ -1,4 +1,4 @@
-package com.atguigu.scw.common.utils;
+﻿package com.atguigu.scw.common.utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -25,5 +25,7 @@ public class AppDateUtils {
 		String string = format.format(date);
 		return string;
 	}
-
+	
+	public static void zxc（）{
+	}
 }
